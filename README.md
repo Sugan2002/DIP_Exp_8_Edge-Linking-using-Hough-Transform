@@ -114,11 +114,19 @@ plt.show()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### Canny Edge detector output
 ![o2](https://user-images.githubusercontent.com/77089743/169016125-a1d95728-b6f6-4131-8798-65adac95495d.PNG)
  
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
